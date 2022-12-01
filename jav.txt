@@ -1,1 +1,2 @@
 First time i am using git
+Second i am trying git
